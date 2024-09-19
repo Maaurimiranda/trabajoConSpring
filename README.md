@@ -1,0 +1,1 @@
+Este proyecto esta craedo con la herramienta Spring y es un API REST. Se ha utilizado de guia hasta el video 10 implementando un BaseService y sus demas caracteristicas para la generalizacion de codigo
